@@ -2,52 +2,52 @@
   "vibes": [
     {
       "id": 1,
-      "vibe": "introvert",
-      "image": "/images/introvert.jpg",
-      "element": "earth"
+      "vibe": "thinker",
+      "image": "/images/thinker.jpg",
+      "element": "fashion-spider"
     },
     {
       "id": 2,
-      "vibe": "extravert",
-      "image": "/images/extrovert.jpg",
-      "element": "earth"
+      "vibe": "impulsive",
+      "image": "/images/impulsive.jpg",
+      "element": "fashion-spider"
     },
     {
       "id": 3,
-      "vibe": "introvert",
-      "image": "/images/introvert.jpg",
-      "element": "sky"
+      "vibe": "thinker",
+      "image": "/images/thinker.jpg",
+      "element": "donkey"
     },
     {
       "id": 4,
-      "vibe": "extravert",
-      "image": "/images/extrovert.jpg",
-      "element": "sky"
+      "vibe": "impulsive",
+      "image": "/images/impulsive.jpg",
+      "element": "donkey"
     },
     {
       "id": 5,
-      "vibe": "introvert",
-      "image": "/images/introvert.jpg",
-      "element": "sea"
+      "vibe": "thinker",
+      "image": "/images/thinker.jpg",
+      "element": "lighter"
     },
     {
       "id": 6,
-      "vibe": "extravert",
-      "image": "/images/extrovert.jpg",
-      "element": "sea"
+      "vibe": "impulsive",
+      "image": "/images/impulsive.jpg",
+      "element": "lighter"
     }
     ,
     {
       "id": 7,
-      "vibe": "introvert",
-      "image": "/images/introvert.jpg",
-      "element": "cosmos"
+      "vibe": "thinker",
+      "image": "/images/thinker.jpg",
+      "element": "mop-bucket"
     },
     {
       "id": 8,
-      "vibe": "extravert",
-      "image": "/images/extrovert.jpg",
-      "element": "cosmos"
+      "vibe": "impulsive",
+      "image": "/images/impulsive.jpg",
+      "element": "mop-bucket"
     }
   ]
 }

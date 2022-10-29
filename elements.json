@@ -1,24 +1,24 @@
 {
   "elements": [
     {
-      "element": "earth",
+      "element": "fashion-spider",
       "id": 1,
-      "image": "/images/land.jpg"
+      "image": "/images/fashion-spider.jpg"
     },
     {
-      "element": "sea",
+      "element": "donkey",
       "id": 2,
-      "image": "/images/sea.jpg"
+      "image": "/images/donkey.jpg"
     },
     {
-     "element": "cosmos",
+     "element": "lighter",
      "id": 3,
-      "image": "/images/cosmic.jpg"
+      "image": "/images/lighter.jpg"
     },
     {
-      "element": "sky",
+      "element": "mop-bucket",
       "id": 4,
-      "image": "/images/sky.jpg"
+      "image": "/images/mop-bucket.jpg"
     }
   ]
 }

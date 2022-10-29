@@ -2,67 +2,67 @@
   "animals": [
     {
       "id": 1,
-      "animal": "fox",
-      "type": "earth",
-      "image": "/images/arcticFox.jpg",
-      "personality": "introvert",
-      "animalText": "A strong individual, your inclination towards solitude masks your inner warmth."
+      "animal": "The Mouse",
+      "type": "fashion-spider",
+      "image": "/images/mouse.png",
+      "personality": "thinker",
+      "animalText": "You are cunning, sneaky, and always there. Very cute, but also known to be a bit of a pest."
     },
     {
       "id": 2,
-      "animal": "labrador",
-      "type": "earth",
-      "image": "/images/chocolateLab.jpg",
-      "personality": "extravert",
-      "animalText": "Ever reliable, you enjoy the company of people and are best known for exuding warmth and love."
+      "animal": "Caramilky",
+      "type": "fashion-spider",
+      "image": "/images/caramilky.jpg",
+      "personality": "impulsive",
+      "animalText": "You are adored by everybody, you are really good at getting the job done, although some may say you love what you do TOO much."
     },
     {
       "id": 3,
-      "animal": "owl",
-      "type": "sky",
-      "image": "/images/desertOwL.jpg",
-      "personality": "introvert",
-      "animalText": "Strong and independent, you enjoy your privacy and gazing into long distances, reflecting upon life's many wonders."
+      "animal": "Ralph",
+      "type": "donkey",
+      "image": "/images/ralph.jpg",
+      "personality": "thinker",
+      "animalText": "Quiet, watchful, you are naturally curious. You appreciate the small things in life, especially when they are trying to escape."
     },
     {
       "id": 4,
-      "animal": "fantail",
-      "type": "sky",
-      "image": "/images/piwakawaka.jpg",
-      "personality": "extravert",
+      "animal": "Ari",
+      "type": "donkey",
+      "image": "/images/ari.jpg",
+      "personality": "impulsive",
       "animalText": "Fanciful, with an ever present optimism, your presence is always appreciated."
     },
     {
       "id": 5,
-      "animal": "jellyfish",
-      "type": "sea",
-      "image": "/images/jellyfish.jpg",
-      "personality": "introvert",
-      "animalText": "Not easily understood, you are an intriguing creature and the subject of people’s fascination."
+      "animal": "Noah",
+      "type": "lighter",
+      "image": "/images/noah.jpg",
+      "personality": "thinker",
+      "animalText": "While you come across as a little frazzled, you are methodical, cautious, and take your time when getting to know people."
     },
     {
       "id": 6,
-      "animal": "sunfish",
-      "type": "sea",
-      "image": "/images/sunfish.jpg",
-      "personality": "extravert",
-      "animalText": "Despite shying away from public gatherings, those rare occasions that you are present people revel in your warmth. "
+      "animal": "Charlie",
+      "type": "lighter",
+      "image": "/images/charlie.jpg",
+      "personality": "impulsive",
+      "animalText": "You love affection, attention, and food. There is nothing more enjoyable to you than a good nap after a great day out with your friends."
     },
     {
       "id": 7,
-      "animal": "frechiella",
-      "type": "cosmos",
-      "image": "/images/frechiella.jpg",
-      "personality": "introvert",
-      "animalText": "A mysterious creature, you enjoy your privacy. Very little is known about you but people are still fond of you."
+      "animal": "Basil",
+      "type": "mop-bucket",
+      "image": "/images/basil.jpg",
+      "personality": "thinker",
+      "animalText": "You are at that point in life where you know yourself well enough to know exactly what you need at all times. Go you."
     },
     {
       "id": 8,
-      "animal": "unicorn",
-      "type": "cosmos",
-      "image": "/images/unicorn.jpg",
-      "personality": "extravert",
-      "animalText": "A wondrous, much-loved creature, your reputation for the mythical masks your private nature and the fact that you are seldom seen."
+      "animal": "Hannah",
+      "type": "mop-bucket",
+      "image": "/images/hannah.jpg",
+      "personality": "impulsive",
+      "animalText": "You barrell your way through life, ever in the present moment, no concerns about the past or the future."
     }
   ]
 }
